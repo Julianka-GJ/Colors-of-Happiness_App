@@ -87,12 +87,12 @@ body {
     opacity: 0;
     transition: opacity 1.5s ease-in-out;
     width: 30%;
-}
 
-.colorInfo {
-    display: flex;
-    margin-bottom: 10px;
-    align-items: center;
+    .colorInfo {
+        display: flex;
+        margin-bottom: 10px;
+        align-items: center;
+    }
 }
 
 .rgb {
